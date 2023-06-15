@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atik203&label=Profile%20views&color=0e75b6&style=flat" alt="atik203" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atik203" alt="atik203" /></a> </p>
-
 - 🌱 I’m currently learning **Web development,Python,C++,Data structure and Algorithm.**
 
 - 📫 How to reach me **atikurrahaman0305@gmail.com**
