@@ -1,34 +1,23 @@
-Experienced in C/C++ and Python | Aspiring Web Developer | Passionate about Machine Learning and Artificial Intelligence Research
+<h1 align="center">Hi 👋, I'm Atikur Rahaman</h1>
+<h3 align="center">Experienced in C/C++ and Python | Aspiring Web Developer | Passionate about Machine Learning and Artificial Intelligence Research</h3>
 
-<div align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Md.Atikur Rahaman" width="200" height="200" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atik203&label=Profile%20views&color=0e75b6&style=flat" alt="atik203" /> </p>
 
-Hello, there! 👋
-Welcome to my GitHub profile! I'm Md.Atikur Rahaman, a highly motivated first-year student pursuing a BSc in Computer Science and Engineering at United International University. With a strong passion for technology and a desire to make a positive impact in the field, I'm continuously exploring new opportunities to enhance my skills and knowledge.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atik203" alt="atik203" /></a> </p>
 
-Skills and Expertise
-Programming Languages: C/C++, Python
-Web Development: HTML, CSS, JavaScript, Frameworks (in progress)
-Machine Learning & AI: Research and development interest
-Journey So Far
-With a solid foundation in programming languages like C/C++ and Python, I pride myself on my problem-solving abilities and critical thinking skills. As a continuous learner, I'm currently immersing myself in the realm of web development, honing my skills in HTML, CSS, JavaScript, and related frameworks to create captivating and user-friendly experiences.
+- 🌱 I’m currently learning **Web development,Python,C++,Data structure and Algorithm.**
 
-While I'm in the early stages of my academic journey, I'm extremely eager to explore the vast world of computer science. My true passion lies in the domains of Machine Learning and Artificial Intelligence. I'm committed to contributing to these fields through both research and development, aiming to create innovative solutions that make a difference.
+- 📫 How to reach me **atikurrahaman0305@gmail.com**
 
-Collaboration and Networking
-I strongly believe in the power of collaboration and teamwork. By working in diverse teams, we can elevate the quality of our work and create opportunities for continuous learning. I actively seek networking opportunities with like-minded professionals to broaden my horizons and exchange ideas. If you're looking for a passionate and dedicated individual in the realms of computer science and programming, let's connect and explore the possibilities together!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Your GitHub History
-Here's a quick overview of my GitHub activity:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<div align="center">
-[![Atik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atik203)](https://github.com/Atik203/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atik203&show_icons=true&locale=en&layout=compact" alt="atik203" /></p>
 
-</div>
-Let's Connect!
-I'm always open to discussing new opportunities, collaborating on exciting projects, and engaging in thought-provoking discussions. Please feel free to reach out to me via LinkedIn or drop me an email at your.email@example.com. I'd be delighted to connect with you and explore the endless possibilities of the tech world!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atik203&show_icons=true&locale=en" alt="atik203" /></p>
 
-Thank you for visiting my profile, and I look forward to connecting with you soon.
-
-Thank You.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atik203&" alt="atik203" /></p>
