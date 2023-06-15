@@ -23,7 +23,7 @@ Your GitHub History
 Here's a quick overview of my GitHub activity:
 
 <div align="center">
-Atikur's GitHub stats
+[![Atik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atik203)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 Let's Connect!
