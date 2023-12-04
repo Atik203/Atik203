@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atikur Rahaman</h1>
-<h3 align="center">Experienced in C/C++ and Python | Aspiring Web Developer | Passionate about Machine Learning and Artificial Intelligence Research</h3>
+<h3 align="center">Experienced in C/C++ | MERN Stack Developer | Passionate about Machine Learning and Artificial Intelligence Research</h3>
 
-- 🌱 I’m currently learning **Web development,Python,C++,Data structure and Algorithm.**
+- 🌱 I’m currently learning **Python,C++,Data structure and Algorithm.**
 
 - 📫 How to reach me **atikurrahaman0305@gmail.com**
 
