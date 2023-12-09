@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,Data structure and Algorithm.**
 - 🔭 **Key Focus Areas:**
-  - Front-end technologies: React, HTML, CSS, JavaScript
+  - Front-end technologies: React, HTML, CSS, JavaScript, Tailwind
   - Backend technologies: Node.js, Express.js
   - Database management: MongoDB
 - 📫 How to reach me **atikurrahaman0305@gmail.com**
