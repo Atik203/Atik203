@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/Atik203/Atik203/main/images/github%20cover.png)
 
 <h1 align="center">Hi 👋, I'm Atikur Rahaman</h1>
-<h3 align="center">Experienced in C/C++ | MERN Stack Developer | Passionate about Machine Learning and Artificial Intelligence Research</h3>
+<h3 align="center">MERN Stack Developer | Front-End Developer || Experience in C/C++ </h3>
 
 - 🌱 I’m currently learning **Python,C++,Data structure and Algorithm.**
 
@@ -28,7 +28,9 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atik203&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
