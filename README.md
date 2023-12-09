@@ -1,10 +1,13 @@
 ![Banner](https://raw.githubusercontent.com/Atik203/Atik203/main/images/github%20cover.png)
 
 <h1 align="center">Hi 👋, I'm Atikur Rahaman</h1>
-<h3 align="center">MERN Stack Developer | Front-End Developer || Experience in C/C++ </h3>
+<h3 align="center">MERN Stack Developer | Front-End Developer | Experience in C/C++ </h3>
 
-- 🌱 I’m currently learning **Python,C++,Data structure and Algorithm.**
-
+- 🌱 I’m currently learning **Python,Data structure and Algorithm.**
+- 🔭 **Key Focus Areas:**
+  - Front-end technologies: React, HTML, CSS, JavaScript
+  - Backend technologies: Node.js, Express.js
+  - Database management: MongoDB
 - 📫 How to reach me **atikurrahaman0305@gmail.com**
 
 
