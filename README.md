@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/atikur-rahaman-203cba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/atikur-rahaman-203cba" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/atik203" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="atik203" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/atik203" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="atik203" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/atik203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atik203" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atik203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atik203" height="30" width="40" /></a>
 </p>
