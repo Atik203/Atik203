@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Atik203/Atik203/main/images/github%20cover.png)
+
 <h1 align="center">Hi 👋, I'm Atikur Rahaman</h1>
 <h3 align="center">Experienced in C/C++ | MERN Stack Developer | Passionate about Machine Learning and Artificial Intelligence Research</h3>
 
