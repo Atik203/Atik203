@@ -20,33 +20,31 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">  
-  
-[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,nodejs,js,mongodb,tailwind,bootstrap,mysql,postgres,django,html,css,c,cpp,vscode,vite,git,figma,postman)](https://skillicons.dev)
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<h4 align="left">Languages</h4>
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,c,c++,java)](https://skillicons.dev)
   
 <!-- Frontend -->
 <h4 align="left">Front End</h4>
 
-[![Frontend](https://skillicons.dev/icons?i=react,redux,ts,html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css)](https://skillicons.dev)
 
 <!-- Backend -->
 <h4 align="left">Back End</h4>
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,django)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev)
 
 <!-- Databases -->
 <h4 align="left">Databases</h4>
 
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
 
 <!-- General -->
-<h4 align="left">General</h4>
+<h4 align="left">Tools</h4>
 
-[![General](https://skillicons.dev/icons?i=js,c,cpp,vscode,vite,git,postman)](https://skillicons.dev)
+[![General](https://skillicons.dev/icons?i=aws,postman,git,figma,firebase,vscode,vite,vercel,npm,yarn)](https://skillicons.dev)
 </p>
 
 
