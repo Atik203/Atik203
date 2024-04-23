@@ -10,7 +10,7 @@
   - Backend technologies: *Node.js, Express.js, Django, Django REST framework, Mongoose, JWT*
   - Database management: *MongoDB, MySQL, PostgreSQL, SQLite*
   - Tools: *Git, GitHub, Firebase, Postman, AWS, Figma, Vercel*
-- 📫 How to reach me **<font color="red">atikurrahaman0305@gmail.com</font>**
+- 📫 How to reach me **<font color="red">atikurrahaman0305@gmail.com</font>**<span style="color:red">atikurrahaman0305@gmail.com</span>
 
 
 <h2 align="left">Connect with me:</h2>
