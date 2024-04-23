@@ -7,7 +7,7 @@
 - 🔭 **Key Focus Areas:**
   - Programming Languages: Typescript, JavaScript, Python, C, C++, Java
   - Front-end technologies: React, Redux, Tailwind, Bootstrap
-  - Backend technologies: Node.js, Express.js, Django, Django REST framework 
+  - Backend technologies: Node.js, Express.js, Django, Django REST framework, Mongoose, JWT
   - Database management: MongoDB, MySQL, PostgreSQL, SQLite
   - Tools: Git, GitHub, Firebase, Postman, AWS, Figma, Vercel
 - 📫 How to reach me **atikurrahaman0305@gmail.com**
