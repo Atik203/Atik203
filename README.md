@@ -29,19 +29,26 @@
 <p align="left">  
   
 <!-- Frontend -->
-<h5 align="left">Front End</h5>
+<h4 align="left">Front End</h4>
 
 [![Frontend](https://skillicons.dev/icons?i=react,redux,ts,html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
 
 <!-- Backend -->
+<h4 align="left">Back End</h4>
+
 [![Backend](https://skillicons.dev/icons?i=nodejs,django)](https://skillicons.dev)
 
 <!-- Databases -->
+<h4 align="left">Databases</h4>
+
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 <!-- General -->
+<h4 align="left">General</h4>
+
 [![General](https://skillicons.dev/icons?i=js,c,cpp,vscode,vite,git,postman)](https://skillicons.dev)
 </p>
+
 
 
 
