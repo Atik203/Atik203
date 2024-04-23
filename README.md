@@ -24,10 +24,10 @@
 <p align="left">  
 <h4 align="left">Languages</h4>
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,py,c,c++,java)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,c,cpp,java)](https://skillicons.dev)
   
 <!-- Frontend -->
-<h4 align="left">Front End</h4>
+<h4 align="center">Front End</h4>
 
 [![Frontend](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css)](https://skillicons.dev)
 
