@@ -30,6 +30,7 @@
   
 <!-- Frontend -->
 <h5 align="left">Front End</h5>
+
 [![Frontend](https://skillicons.dev/icons?i=react,redux,ts,html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
 
 <!-- Backend -->
