@@ -25,12 +25,22 @@
   
 [![My Skills](https://skillicons.dev/icons?i=react,redux,ts,nodejs,js,mongodb,tailwind,bootstrap,mysql,postgres,django,html,css,c,cpp,vscode,vite,git,figma,postman)](https://skillicons.dev)
 </p>
-### Languages and Tools:
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  
+  
+<!-- Frontend -->
 [![Frontend](https://skillicons.dev/icons?i=react,redux,ts,html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
+
+<!-- Backend -->
 [![Backend](https://skillicons.dev/icons?i=nodejs,django)](https://skillicons.dev)
+
+<!-- Databases -->
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+
+<!-- General -->
 [![General](https://skillicons.dev/icons?i=js,c,cpp,vscode,vite,git,postman)](https://skillicons.dev)
+</p>
+
 
 
 # 📊 GitHub Stats:
