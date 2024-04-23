@@ -20,8 +20,8 @@
 </p>
 
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">  
+<h2 align="center">Languages and Tools:</h2>
+<p align="center">  
 <h4 align="left">Languages</h4>
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,py,c,cpp,java)](https://skillicons.dev)
