@@ -36,8 +36,7 @@
 <!-- Backend -->
 <h3 align="left">Back End</h3>
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev)[![JWT](https://icons8.com/icon/rHpveptSuwDz/json-web-token)](https://icons8.com/icon/rHpveptSuwDz/json-web-token)
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev) [![JWT](https://icons8.com/icon/rHpveptSuwDz/json-web-token)](https://icons8.com/icon/rHpveptSuwDz/json-web-token)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev)<img width="48" height="48" src="https://img.icons8.com/color/48/000000/java-web-token.png" alt="java-web-token"/>
 
 
 <!-- Databases -->
