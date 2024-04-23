@@ -25,6 +25,12 @@
   
 [![My Skills](https://skillicons.dev/icons?i=react,redux,ts,nodejs,js,mongodb,tailwind,bootstrap,mysql,postgres,django,html,css,c,cpp,vscode,vite,git,figma,postman)](https://skillicons.dev)
 </p>
+### Languages and Tools:
+
+[![Frontend](https://skillicons.dev/icons?i=react,redux,ts,html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,django)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+[![General](https://skillicons.dev/icons?i=js,c,cpp,vscode,vite,git,postman)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
