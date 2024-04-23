@@ -36,7 +36,7 @@
 <!-- Backend -->
 <h3 align="left">Back End</h3>
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev)[](https://icons8.com/icon/rHpveptSuwDz/json-web-token)
 
 <!-- Databases -->
 <h3 align="left">Databases</h3>
