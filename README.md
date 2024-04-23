@@ -3,11 +3,13 @@
 <h1 align="center">Hi 👋, I'm Atikur Rahaman</h1>
 <h2 align="center">Full Stack Developer | MERN Stack Developer | Front-End Developer | Django Developer </h2>
 
-- 🌱 I’m currently learning **Python,Data structure and Algorithm.**
+- 🌱 I’m currently learning **Next.js, Prisma ORM, Docker, Software Testing, AWS**
 - 🔭 **Key Focus Areas:**
-  - Front-end technologies: React, HTML, CSS, JavaScript, Tailwind
-  - Backend technologies: Node.js, Express.js
-  - Database management: MongoDB
+  - Programming Languages: Typescript, JavaScript, Python, C, C++, Java
+  - Front-end technologies: React, Redux, Tailwind, Bootstrap
+  - Backend technologies: Node.js, Express.js, Django, Django REST framework 
+  - Database management: MongoDB, MySQL, PostgreSQL, SQLite
+  - Tools: Git, GitHub, Firebase, Postman, AWS, Figma, Vercel
 - 📫 How to reach me **atikurrahaman0305@gmail.com**
 
 
