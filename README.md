@@ -36,7 +36,7 @@
 <!-- Backend -->
 <h3 align="left">Back End</h3>
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev)<img width="48" height="48" src="https://img.icons8.com/color/48/000000/java-web-token.png" alt="java-web-token"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongoose.png" alt="mongoose"/>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original-wordmark.svg" width="48" height="48"/> <img width="48" height="48" src="https://img.icons8.com/color/48/000000/java-web-token.png" alt="java-web-token"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongoose.png" alt="mongoose"/>
 
 <!-- Databases -->
 <h3 align="left">Databases</h3>
