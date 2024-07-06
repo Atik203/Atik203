@@ -56,6 +56,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atik203&theme=radical&hide_border=false&count_private=true&hide=contribs&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atik203&theme=radical) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Atik203&theme=radical&border_radius=3)](https://git.io/streak-stats) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atik203&theme=radical&layout=compact)
 
 ### ✍️ Random Dev Quote
