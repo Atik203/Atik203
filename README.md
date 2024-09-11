@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Atikur Rahaman</h1>
 <h2 align="center">Full Stack Developer | MERN Stack Developer | Front-End Developer | Django Developer </h2>
 
-- 🌱 I’m currently learning **Next.js, Prisma ORM, Docker, Software Testing, AWS**
+- 🌱 I’m currently learning **Next.js, Prisma ORM, Docker, AWS**
 - 🔭 **Key Focus Areas:**
   - Programming Languages: *Typescript, JavaScript, Python, C, C++, Java*
   - Front-end technologies: *React, Redux, Tailwind, Bootstrap*
