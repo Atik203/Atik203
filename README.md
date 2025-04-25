@@ -58,7 +58,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-five-omega.vercel.app?user=atik203&theme=radical&border_radius=3)<br/>
 
-![Top Languages](https://github-readme-stats-rho-one-58.vercel.app/api/top-langs/?username=atik203&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats-rho-one-58.vercel.app/api/top-langs/?username=atik203&theme=radical&layout=compact&langs_count=8&size_weight=0.2&count_weight=0.8)
 
 
 ### ✍️ Random Dev Quote
