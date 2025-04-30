@@ -56,7 +56,7 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-rho-one-58.vercel.app/api?username=atik203&theme=radical&hide_border=false&count_private=true&hide=contribs&show_icons=true)<br/>
 
-![GitHub Streak](https://github-readme-streak-stats-five-omega.vercel.app?user=atik203&theme=radical&border_radius=3)<br/>
+![GitHub Streak](https://github-readme-streak-stats-card.vercel.app?user=Atik203&theme=radical)<br/>
 
 ![Top Languages](https://github-readme-stats-rho-one-58.vercel.app/api/top-langs/?username=atik203&theme=radical&layout=compact&langs_count=8&size_weight=0.2&count_weight=0.8)
 
