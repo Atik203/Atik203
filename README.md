@@ -31,7 +31,7 @@
 <!-- Frontend -->
 <h3 align="left">Front End</h3>
 
-[![Frontend](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,bootstrap,html,css)](https://skillicons.dev)
 
 <!-- Backend -->
 <h3 align="left">Back End</h3>
