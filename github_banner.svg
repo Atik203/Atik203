@@ -1,0 +1,97 @@
+<svg width="1650" height="950" viewBox="0 0 1650 950" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Md. Atikur Rahaman — Full Stack Developer</title>
+  <desc id="desc">Dark futuristic banner with a crisp, centered 4x3 grid of technology icons and clean cyan name/title.</desc>
+
+  <defs>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="60%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0a0f1a"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
+      <stop offset="60%" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.35"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#9ca3af" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <!-- Soft neon pads behind icons (keeps icons crisp) -->
+    <radialGradient id="padCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="padBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Rounded clip -->
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="1650" height="950" rx="28" ry="28"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <g clip-path="url(#rounded)">
+    <rect width="1650" height="950" fill="url(#bg)"/>
+    <rect width="1650" height="950" fill="url(#grid)"/>
+    <rect width="1650" height="950" fill="url(#vignette)"/>
+    <!-- Accent light sweeps -->
+    <g opacity="0.18">
+      <ellipse cx="1320" cy="160" rx="300" ry="120" fill="#22d3ee"/>
+      <ellipse cx="260" cy="820" rx="280" ry="120" fill="#38bdf8"/>
+    </g>
+  </g>
+
+  <!-- Grid geometry (centered): 4 columns x 3 rows -->
+  <!-- Icon size S=120, gap G=220, start X=435, Y(row1)=195 -->
+  <!-- Centers (for pads) are +60 in both axes -->
+  <!-- Row 1 -->
+  <circle cx="495" cy="255" r="90" fill="url(#padCyan)"/>
+  <circle cx="715" cy="255" r="90" fill="url(#padBlue)"/>
+  <circle cx="935" cy="255" r="90" fill="url(#padCyan)"/>
+  <circle cx="1155" cy="255" r="90" fill="url(#padBlue)"/>
+
+  <!-- Row 2 -->
+  <circle cx="495" cy="475" r="90" fill="url(#padBlue)"/>
+  <circle cx="715" cy="475" r="90" fill="url(#padCyan)"/>
+  <circle cx="935" cy="475" r="90" fill="url(#padBlue)"/>
+  <circle cx="1155" cy="475" r="90" fill="url(#padCyan)"/>
+
+  <!-- Row 3 -->
+  <circle cx="495" cy="695" r="90" fill="url(#padCyan)"/>
+  <circle cx="715" cy="695" r="90" fill="url(#padBlue)"/>
+  <!-- Slightly reduced pad intensity for Django/MySQL/Prisma -->
+  <circle cx="935" cy="695" r="90" fill="url(#padCyan)" opacity="0.14"/>
+  <circle cx="1155" cy="695" r="90" fill="url(#padBlue)" opacity="0.14"/>
+
+  <!-- Icons (crisp, no blurs) -->
+  <!-- Row 1: Next.js, React, TypeScript, Tailwind CSS -->
+  <image href="https://cdn.simpleicons.org/nextdotjs/ffffff" x="435" y="195" width="120" height="120"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="655" y="195" width="120" height="120"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" x="875" y="195" width="120" height="120"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="1095" y="195" width="120" height="120"/>
+
+  <!-- Row 2: Node.js, Express.js, Python, Django -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="435" y="415" width="120" height="120"/>
+  <image href="https://cdn.simpleicons.org/express/ffffff" x="655" y="415" width="120" height="120"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="875" y="415" width="120" height="120"/>
+  <image href="https://cdn.simpleicons.org/django/ffffff" x="1095" y="415" width="120" height="120"/>
+
+  <!-- Row 3: MongoDB, PostgreSQL, MySQL, Prisma -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="435" y="635" width="120" height="120"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" x="655" y="635" width="120" height="120"/>
+  <image href="https://cdn.simpleicons.org/mysql/4479A1" x="875" y="635" width="120" height="120"/>
+  <image href="https://cdn.simpleicons.org/prisma/ffffff" x="1095" y="635" width="120" height="120"/>
+
+  <!-- Bottom-right name and title (simple, sharp, no glow) -->
+  <g font-family="Segoe UI, Inter, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif" text-rendering="optimizeLegibility" letter-spacing="0.15px">
+    <text x="1570" y="860" font-size="60" font-weight="800" text-anchor="end" fill="#8BD5E5" stroke="#0b1220" stroke-width="0.7" paint-order="stroke fill">Md. Atikur Rahaman</text>
+    <text x="1570" y="915" font-size="38" font-weight="700" text-anchor="end" fill="#7CC5D8" stroke="#0b1220" stroke-width="0.6" paint-order="stroke fill">Full Stack Developer</text>
+  </g>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="1648" height="948" rx="28" ry="28" fill="none" stroke="#1f2937" stroke-opacity="0.7"/>
+</svg>
