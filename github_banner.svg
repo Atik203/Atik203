@@ -1,6 +1,7 @@
+<!-- Banner V5 + labels -->
 <svg width="1650" height="950" viewBox="0 0 1650 950" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Md. Atikur Rahaman — Full Stack Developer</title>
-  <desc id="desc">Dark futuristic banner with a crisp, centered 4x3 grid of technology icons and clean cyan name/title.</desc>
+  <desc id="desc">Dark banner with a clean 4x3 grid of technology icons, subtle labels, and simple bottom-right name/title.</desc>
 
   <defs>
     <!-- Background -->
@@ -17,7 +18,7 @@
       <path d="M48 0H0V48" fill="none" stroke="#9ca3af" stroke-opacity="0.06" stroke-width="1"/>
     </pattern>
 
-    <!-- Soft neon pads behind icons (keeps icons crisp) -->
+    <!-- Soft pads behind icons (no blur on icons) -->
     <radialGradient id="padCyan" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.22"/>
       <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
@@ -38,58 +39,74 @@
     <rect width="1650" height="950" fill="url(#bg)"/>
     <rect width="1650" height="950" fill="url(#grid)"/>
     <rect width="1650" height="950" fill="url(#vignette)"/>
-    <!-- Accent light sweeps -->
     <g opacity="0.18">
       <ellipse cx="1320" cy="160" rx="300" ry="120" fill="#22d3ee"/>
       <ellipse cx="260" cy="820" rx="280" ry="120" fill="#38bdf8"/>
     </g>
   </g>
 
-  <!-- Grid geometry (centered): 4 columns x 3 rows -->
-  <!-- Icon size S=120, gap G=220, start X=435, Y(row1)=195 -->
-  <!-- Centers (for pads) are +60 in both axes -->
-  <!-- Row 1 -->
+  <!-- Grid geometry: 4 columns x 3 rows -->
+  <!-- Icon positions (x,y): (435,195) (655,195) (875,195) (1095,195) / (435,415)... / (435,635)... -->
+  <!-- Pads -->
   <circle cx="495" cy="255" r="90" fill="url(#padCyan)"/>
   <circle cx="715" cy="255" r="90" fill="url(#padBlue)"/>
   <circle cx="935" cy="255" r="90" fill="url(#padCyan)"/>
   <circle cx="1155" cy="255" r="90" fill="url(#padBlue)"/>
-
-  <!-- Row 2 -->
   <circle cx="495" cy="475" r="90" fill="url(#padBlue)"/>
   <circle cx="715" cy="475" r="90" fill="url(#padCyan)"/>
   <circle cx="935" cy="475" r="90" fill="url(#padBlue)"/>
   <circle cx="1155" cy="475" r="90" fill="url(#padCyan)"/>
-
-  <!-- Row 3 -->
   <circle cx="495" cy="695" r="90" fill="url(#padCyan)"/>
   <circle cx="715" cy="695" r="90" fill="url(#padBlue)"/>
-  <!-- Slightly reduced pad intensity for Django/MySQL/Prisma -->
   <circle cx="935" cy="695" r="90" fill="url(#padCyan)" opacity="0.14"/>
   <circle cx="1155" cy="695" r="90" fill="url(#padBlue)" opacity="0.14"/>
 
   <!-- Icons (crisp, no blurs) -->
   <!-- Row 1: Next.js, React, TypeScript, Tailwind CSS -->
-  <image href="https://cdn.simpleicons.org/nextdotjs/ffffff" x="435" y="195" width="120" height="120"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="655" y="195" width="120" height="120"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" x="875" y="195" width="120" height="120"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="1095" y="195" width="120" height="120"/>
+  <image href="https://cdn.simpleicons.org/nextdotjs/ffffff" x="435" y="195" width="120" height="120" />
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="655" y="195" width="120" height="120" />
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" x="875" y="195" width="120" height="120" />
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="1095" y="195" width="120" height="120" />
 
   <!-- Row 2: Node.js, Express.js, Python, Django -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="435" y="415" width="120" height="120"/>
-  <image href="https://cdn.simpleicons.org/express/ffffff" x="655" y="415" width="120" height="120"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="875" y="415" width="120" height="120"/>
-  <image href="https://cdn.simpleicons.org/django/ffffff" x="1095" y="415" width="120" height="120"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="435" y="415" width="120" height="120" />
+  <image href="https://cdn.simpleicons.org/express/ffffff" x="655" y="415" width="120" height="120" />
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="875" y="415" width="120" height="120" />
+  <image href="https://cdn.simpleicons.org/django/ffffff" x="1095" y="415" width="120" height="120" />
 
   <!-- Row 3: MongoDB, PostgreSQL, MySQL, Prisma -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="435" y="635" width="120" height="120"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" x="655" y="635" width="120" height="120"/>
-  <image href="https://cdn.simpleicons.org/mysql/4479A1" x="875" y="635" width="120" height="120"/>
-  <image href="https://cdn.simpleicons.org/prisma/ffffff" x="1095" y="635" width="120" height="120"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="435" y="635" width="120" height="120" />
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" x="655" y="635" width="120" height="120" />
+  <image href="https://cdn.simpleicons.org/mysql/4479A1" x="875" y="635" width="120" height="120" />
+  <image href="https://cdn.simpleicons.org/prisma/ffffff" x="1095" y="635" width="120" height="120" />
+
+  <!-- Icon labels (simple, sharp) -->
+  <g id="labels" font-family="Segoe UI, Inter, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif"
+     font-size="18" font-weight="600" fill="#9CC7D8" text-anchor="middle"
+     letter-spacing="0.1px" paint-order="stroke fill" stroke="#0b1220" stroke-width="0.4">
+    <!-- Row 1 labels (y = 350) -->
+    <text x="495"  y="350">Next.js</text>
+    <text x="715"  y="350">React</text>
+    <text x="935"  y="350">TypeScript</text>
+    <text x="1155" y="350">Tailwind CSS</text>
+
+    <!-- Row 2 labels (y = 570) -->
+    <text x="495"  y="570">Node.js</text>
+    <text x="715"  y="570">Express</text>
+    <text x="935"  y="570">Python</text>
+    <text x="1155" y="570">Django</text>
+
+    <!-- Row 3 labels (y = 790) -->
+    <text x="495"  y="790">MongoDB</text>
+    <text x="715"  y="790">PostgreSQL</text>
+    <text x="935"  y="790">MySQL</text>
+    <text x="1155" y="790">Prisma</text>
+  </g>
 
   <!-- Bottom-right name and title (simple, sharp, no glow) -->
   <g font-family="Segoe UI, Inter, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif" text-rendering="optimizeLegibility" letter-spacing="0.15px">
-    <text x="1570" y="860" font-size="60" font-weight="800" text-anchor="end" fill="#8BD5E5" stroke="#0b1220" stroke-width="0.7" paint-order="stroke fill">Md. Atikur Rahaman</text>
-    <text x="1570" y="915" font-size="38" font-weight="700" text-anchor="end" fill="#7CC5D8" stroke="#0b1220" stroke-width="0.6" paint-order="stroke fill">Full Stack Developer</text>
+    <text x="1570" y="860" font-size="48" font-weight="800" text-anchor="end" fill="#8BD5E5" stroke="#0b1220" stroke-width="0.7" paint-order="stroke fill">Md. Atikur Rahaman</text>
+    <text x="1570" y="915" font-size="32" font-weight="700" text-anchor="end" fill="#7CC5D8" stroke="#0b1220" stroke-width="0.6" paint-order="stroke fill">Full Stack Developer</text>
   </g>
 
   <!-- Border -->
