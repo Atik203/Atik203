@@ -1,7 +1,7 @@
-![Atikur Rahaman — Full-Stack Developer banner](images/github_banner.png)
+![Atikur Rahaman — Full Stack Developer banner](images/github_banner.png)
 
 <h1 align="center">Hi 👋, I'm Atikur Rahaman</h1>
-<h2 align="center">Full Stack Developer | MERN Stack Developer | Front-End Developer | Django Developer </h2>
+<h2 align="center">Full Stack Developer | MERN Stack Developer | Front End Developer | Django Developer </h2>
 
 - 🌱 I’m currently learning **Machine Learning, Docker, AWS**
 - 🔭 **Key Focus Areas:**
@@ -14,10 +14,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/atikur-rahaman-203cba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/atikur-rahaman-203cba" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/atik203" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="atik203" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Atikur_Rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atik203" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atik203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atik203" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atikur-rahaman-203cba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: atikur-rahaman-203cba" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/atik203" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef: atik203" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Atikur_Rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces: Atikur_Rahaman" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/atik203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode: atik203" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -61,4 +61,4 @@
 
 ## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=atik203.visitor-badge)](https://visitcount.itsvg.in)
+[![](https://visitor-badge.laobi.icu/badge?page_id=atik203.visitor-badge)](https://visitor-badge.laobi.icu/badge?page_id=atik203.visitor-badge)
