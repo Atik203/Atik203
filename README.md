@@ -91,5 +91,5 @@ I'm a final-year Computer Science and Engineering student at **United Internatio
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Atik203&repo=Atik203&label=Profile%20Views&countColor=%237B1E7A" alt="Profile visitor count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=atik203.visitor-badge" alt="Profile visitor count" />
 </p>
