@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-labelledby="title desc">
-  <title id="title">Md. Atikur Rahaman — Full Stack Engineer and AI/ML Specialist</title>
+  <title id="title">Md. Atikur Rahaman — Full Stack Engineer and AI/ML Engineer</title>
   <desc id="desc">A dark navy technology banner with a subtle grid, connected AI nodes, and clear labels for Next.js, TypeScript, Agentic AI, LangGraph, RAG, PostgreSQL, and pgvector.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -40,7 +40,7 @@
 
       <text x="100" y="248" fill="#f1f7ff" font-size="59" font-weight="760" letter-spacing="-1.8">Md. Atikur Rahaman</text>
       <rect x="102" y="278" width="72" height="5" rx="2.5" fill="url(#accent)"/>
-      <text x="100" y="335" fill="#a9c9e0" font-size="31" font-weight="600">Full Stack Engineer <tspan fill="#52d9d0">·</tspan> AI/ML Specialist</text>
+      <text x="100" y="335" fill="#a9c9e0" font-size="31" font-weight="600">Full Stack Engineer <tspan fill="#52d9d0">·</tspan> AI/ML Engineer</text>
       <text x="102" y="386" fill="#9baec4" font-size="20" font-weight="450">Production-ready applications and intelligent systems</text>
 
       <g transform="translate(100 454)">
