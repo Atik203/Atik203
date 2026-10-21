@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/github_banner_v2.png" alt="Md. Atikur Rahaman — Full Stack Engineer and AI/ML Engineer" width="100%" />
+  <img src="images/banner-image.png" alt="Md. Atikur Rahaman — Full Stack Engineer and AI/ML Engineer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Md. Atikur Rahaman 👋</h1>
