@@ -89,3 +89,7 @@ I'm a Computer Science and Engineering student at **United International Univers
 <p align="center">
   <a href="https://www.atikurrahaman.site/">Explore more projects on my portfolio →</a>
 </p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=atik203.visitor-badge" alt="Profile visitor count" />
+</p>

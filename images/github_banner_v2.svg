@@ -45,7 +45,7 @@
 
       <g transform="translate(100 454)">
         <rect width="115" height="42" rx="12" fill="#17253a" stroke="#7dd3fc" stroke-opacity="0.38"/>
-        <text x="57.5" y="27" text-anchor="middle" fill="#d6f3ff" font-size="17" font-weight="650">Next.js 16</text>
+        <text x="57.5" y="27" text-anchor="middle" fill="#d6f3ff" font-size="17" font-weight="650">Next.js</text>
         <rect x="129" width="132" height="42" rx="12" fill="#17253a" stroke="#7dd3fc" stroke-opacity="0.38"/>
         <text x="195" y="27" text-anchor="middle" fill="#d6f3ff" font-size="17" font-weight="650">TypeScript</text>
         <rect x="275" width="157" height="42" rx="12" fill="#17253a" stroke="#7dd3fc" stroke-opacity="0.38"/>
