@@ -16,7 +16,7 @@
 
 **Email:** atikurrahaman0305@gmail.com
 
-I'm a Computer Science and Engineering student at **United International University**. I build full-stack products with **Next.js, TypeScript, Node.js, and PostgreSQL**, and work on **Agentic AI, RAG, and machine learning**. I'm currently available for full-time and remote roles.
+I'm a final-year Computer Science and Engineering student at **United International University**. I build full-stack products with **Next.js, TypeScript, Node.js, and PostgreSQL**, and work on **Agentic AI, RAG, and machine learning**. I'm currently available for full-time and remote roles.
 
 ## Skills & Technologies
 
