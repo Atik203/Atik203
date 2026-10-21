@@ -74,7 +74,7 @@ I'm a final-year Computer Science and Engineering student at **United Internatio
 </p>
 
 <p>
-  <img src="https://github-readme-stats-rho-one-58.vercel.app/api/top-langs/?username=atik203&theme=radical&layout=compact&langs_count=8&size_weight=0.2&count_weight=0.8" alt="Most used languages by Atik203" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atik203&theme=radical&layout=compact&langs_count=8&size_weight=0.2&count_weight=0.8" alt="Most used languages by Atik203" />
 </p>
 
 ## Featured Projects
