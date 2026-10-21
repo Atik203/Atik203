@@ -1,85 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-labelledby="title desc">
-  <title id="title">Md. Atikur Rahaman — Full Stack Engineer and AI/ML Engineer</title>
-  <desc id="desc">A dark navy technology banner with a subtle grid, connected AI nodes, and clear labels for Next.js, TypeScript, Agentic AI, LangGraph, RAG, PostgreSQL, and pgvector.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="780" viewBox="0 0 1800 780" role="img" aria-labelledby="title desc">
+  <title id="title">Md. Atikur Rahaman | Full Stack Engineer and AI/ML Engineer</title>
+  <desc id="desc">A clear portfolio banner presenting Atikur Rahaman's full stack and AI/ML engineering work, with large icons for web products, agentic AI, and data platforms.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset="0.55" stop-color="#101b31"/>
-      <stop offset="1" stop-color="#091323"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4de3d0"/>
-      <stop offset="1" stop-color="#62aaff"/>
-    </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#1c91b6" stop-opacity="0.32"/>
-      <stop offset="1" stop-color="#1c91b6" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#8aa5c4" stroke-opacity="0.075" stroke-width="1"/>
-    </pattern>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="9"/>
-      <feOffset dy="4"/>
-      <feComponentTransfer><feFuncA type="linear" slope="0.35"/></feComponentTransfer>
-      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="rounded"><rect width="1600" height="640" rx="30"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#101c32"/><stop offset="1" stop-color="#081625"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#51e0ca"/><stop offset="1" stop-color="#72aaff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#1486a1" stop-opacity=".29"/><stop offset="1" stop-color="#1486a1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#91a9c4" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000814" flood-opacity=".25"/></filter>
   </defs>
-
-  <g clip-path="url(#rounded)">
-    <rect width="1600" height="640" fill="url(#background)"/>
-    <rect width="1600" height="640" fill="url(#grid)"/>
-    <circle cx="1280" cy="320" r="410" fill="url(#glow)"/>
-    <path d="M0 560C260 460 420 650 690 540S1130 430 1600 555" fill="none" stroke="#3b82f6" stroke-opacity="0.08" stroke-width="2"/>
-
-    <g font-family="Segoe UI, Inter, Arial, sans-serif">
-      <rect x="104" y="108" width="360" height="42" rx="21" fill="#0d2b2d" stroke="#2dd4bf" stroke-opacity="0.45"/>
-      <circle cx="129" cy="129" r="5" fill="#34d399"/>
-      <text x="147" y="135" fill="#9deadd" font-size="16" font-weight="650" letter-spacing="1.2">AVAILABLE FOR FULL-TIME / REMOTE</text>
-
-      <text x="100" y="248" fill="#f1f7ff" font-size="59" font-weight="760" letter-spacing="-1.8">Md. Atikur Rahaman</text>
-      <rect x="102" y="278" width="72" height="5" rx="2.5" fill="url(#accent)"/>
-      <text x="100" y="335" fill="#a9c9e0" font-size="31" font-weight="600">Full Stack Engineer <tspan fill="#52d9d0">·</tspan> AI/ML Engineer</text>
-      <text x="102" y="386" fill="#9baec4" font-size="20" font-weight="450">Production-ready applications and intelligent systems</text>
-
-      <g transform="translate(100 454)">
-        <rect width="115" height="42" rx="12" fill="#17253a" stroke="#7dd3fc" stroke-opacity="0.38"/>
-        <text x="57.5" y="27" text-anchor="middle" fill="#d6f3ff" font-size="17" font-weight="650">Next.js</text>
-        <rect x="129" width="132" height="42" rx="12" fill="#17253a" stroke="#7dd3fc" stroke-opacity="0.38"/>
-        <text x="195" y="27" text-anchor="middle" fill="#d6f3ff" font-size="17" font-weight="650">TypeScript</text>
-        <rect x="275" width="157" height="42" rx="12" fill="#17253a" stroke="#7dd3fc" stroke-opacity="0.38"/>
-        <text x="353.5" y="27" text-anchor="middle" fill="#d6f3ff" font-size="17" font-weight="650">Agentic AI · RAG</text>
-        <rect x="446" width="201" height="42" rx="12" fill="#17253a" stroke="#7dd3fc" stroke-opacity="0.38"/>
-        <text x="546.5" y="27" text-anchor="middle" fill="#d6f3ff" font-size="17" font-weight="650">PostgreSQL · pgvector</text>
-      </g>
-      <text x="102" y="552" fill="#647b96" font-size="17" font-weight="500">atikurrahaman.site</text>
-      <text x="286" y="552" fill="#41556d" font-size="17">/</text>
-      <text x="304" y="552" fill="#647b96" font-size="17" font-weight="500">3+ years building for the web</text>
+  <rect width="1800" height="780" rx="30" fill="url(#bg)"/><rect width="1800" height="780" rx="30" fill="url(#grid)"/>
+  <circle cx="1470" cy="390" r="520" fill="url(#halo)"/>
+  <path d="M0 754C360 664 560 810 900 728S1450 666 1800 752" fill="none" stroke="#4b9dff" stroke-opacity=".12" stroke-width="3"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <rect x="112" y="104" width="548" height="50" rx="25" fill="#0c292c" stroke="#35cdbb" stroke-opacity=".5"/>
+    <circle cx="140" cy="129" r="7" fill="#4be0a2"/>
+    <text x="163" y="136" fill="#a8f1df" font-size="19" font-weight="700" letter-spacing="1.5">AVAILABLE FOR FULL-TIME &amp; REMOTE ROLES</text>
+    <text x="105" y="272" fill="#f4f8ff" font-size="86" font-weight="760" letter-spacing="-2.2">Md. Atikur Rahaman</text>
+    <rect x="110" y="305" width="104" height="7" rx="3.5" fill="url(#accent)"/>
+    <text x="108" y="390" fill="#c0d7ea" font-size="43" font-weight="650">Full Stack Engineer <tspan fill="#52d9d0">·</tspan> AI/ML Engineer</text>
+    <text x="110" y="448" fill="#c6d5e6" font-size="30" font-weight="450">I build reliable web products and practical AI systems.</text>
+    <g transform="translate(108 520)">
+      <rect width="180" height="54" rx="15" fill="#15273c" stroke="#6ec9dc" stroke-opacity=".48"/><text x="90" y="35" text-anchor="middle" fill="#e0f5ff" font-size="23" font-weight="650">Next.js</text>
+      <rect x="198" width="207" height="54" rx="15" fill="#15273c" stroke="#6ec9dc" stroke-opacity=".48"/><text x="301.5" y="35" text-anchor="middle" fill="#e0f5ff" font-size="23" font-weight="650">TypeScript</text>
+      <rect x="423" width="220" height="54" rx="15" fill="#15273c" stroke="#6ec9dc" stroke-opacity=".48"/><text x="533" y="35" text-anchor="middle" fill="#e0f5ff" font-size="22" font-weight="650">Agentic AI · RAG</text>
+      <rect x="661" width="260" height="54" rx="15" fill="#15273c" stroke="#6ec9dc" stroke-opacity=".48"/><text x="791" y="35" text-anchor="middle" fill="#e0f5ff" font-size="20" font-weight="650">PostgreSQL · pgvector</text>
     </g>
-
-    <!-- Connected systems motif -->
-    <g stroke="url(#accent)" stroke-opacity="0.5" stroke-width="2" fill="none">
-      <path d="M1025 209L1196 149L1371 218L1254 329L1055 370L1150 493L1374 448L1450 318L1371 218"/>
-      <path d="M1196 149L1254 329L1450 318M1055 370L1254 329L1374 448" stroke-opacity="0.27"/>
-    </g>
-    <g fill="#0e2033" stroke="#62d9e5" stroke-width="2.5" filter="url(#softShadow)">
-      <circle cx="1025" cy="209" r="16"/><circle cx="1196" cy="149" r="22"/>
-      <circle cx="1371" cy="218" r="17"/><circle cx="1254" cy="329" r="27"/>
-      <circle cx="1055" cy="370" r="18"/><circle cx="1374" cy="448" r="21"/>
-      <circle cx="1450" cy="318" r="14"/><circle cx="1150" cy="493" r="15"/>
-    </g>
-    <g font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="700" text-anchor="middle">
-      <text x="1196" y="155" fill="#baf8f1" font-size="14">TS</text>
-      <text x="1254" y="335" fill="#baf8f1" font-size="16">AI</text>
-      <text x="1374" y="454" fill="#baf8f1" font-size="13">DB</text>
-    </g>
-    <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#a6bdd3">
-      <text x="1086" y="187">Next.js</text>
-      <text x="1285" y="177">LangGraph</text>
-      <text x="1291" y="300">RAG</text>
-      <text x="1400" y="425">pgvector</text>
-    </g>
-    <rect x="1" y="1" width="1598" height="638" rx="29" fill="none" stroke="#8ba4bd" stroke-opacity="0.2"/>
+    <text x="111" y="683" fill="#9ab0c9" font-size="23" font-weight="550">atikurrahaman.site</text>
+    <circle cx="325" cy="676" r="3" fill="#57d5d1"/>
+    <text x="348" y="683" fill="#9ab0c9" font-size="23" font-weight="550">3+ years building for the web</text>
   </g>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" filter="url(#shadow)">
+    <text x="1246" y="143" fill="#8fa8c0" font-size="18" font-weight="700" letter-spacing="2.6">WHAT I BUILD</text>
+    <rect x="1215" y="177" width="173" height="382" rx="24" fill="#102138" fill-opacity=".88" stroke="#7ea7c9" stroke-opacity=".24"/>
+    <rect x="1407" y="177" width="173" height="382" rx="24" fill="#102138" fill-opacity=".88" stroke="#7ea7c9" stroke-opacity=".24"/>
+    <rect x="1599" y="177" width="173" height="382" rx="24" fill="#102138" fill-opacity=".88" stroke="#7ea7c9" stroke-opacity=".24"/>
+  </g>
+  <!-- Web product icon -->
+  <g transform="translate(1301 272)" fill="none" stroke="#68e2d1" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-39" y="-35" width="78" height="70" rx="10"/><path d="M-39 -13H39M-22 -25h2M-12 -25h2M-10 2l-12 11 12 11M10 2l12 11-12 11"/>
+  </g>
+  <text x="1301" y="374" text-anchor="middle" fill="#eef7ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21" font-weight="700">WEB</text>
+  <text x="1301" y="405" text-anchor="middle" fill="#b6c9dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="550">PRODUCTS</text>
+  <!-- Agentic AI icon -->
+  <g transform="translate(1493 271)" fill="none" stroke="#68e2d1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="29"/><circle cx="-41" cy="-35" r="8" fill="#142b40"/><circle cx="42" cy="-35" r="8" fill="#142b40"/><circle cx="-43" cy="37" r="8" fill="#142b40"/><circle cx="43" cy="37" r="8" fill="#142b40"/>
+    <path d="M-21 -19L-36 -30M21 -19L36 -30M-21 20L-36 31M21 20L36 31"/>
+    <path d="M0 -15l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#a6f4e4" stroke="none"/>
+  </g>
+  <text x="1493" y="374" text-anchor="middle" fill="#eef7ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21" font-weight="700">AGENTIC</text>
+  <text x="1493" y="405" text-anchor="middle" fill="#b6c9dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="550">AI SYSTEMS</text>
+  <!-- Data platform icon -->
+  <g transform="translate(1685 271)" fill="none" stroke="#68e2d1" stroke-width="6">
+    <ellipse cx="0" cy="-26" rx="38" ry="14"/><path d="M-38 -26v51c0 8 17 15 38 15s38-7 38-15v-51M-38 0c0 8 17 15 38 15s38-7 38-15"/>
+  </g>
+  <text x="1685" y="374" text-anchor="middle" fill="#eef7ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21" font-weight="700">DATA</text>
+  <text x="1685" y="405" text-anchor="middle" fill="#b6c9dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="550">PLATFORMS</text>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="550" fill="#8fa8c0">
+    <text x="1301" y="485" text-anchor="middle">Web apps</text><text x="1493" y="485" text-anchor="middle">LLMs · RAG</text><text x="1685" y="485" text-anchor="middle">SQL · vector</text>
+  </g>
+  <rect x="1.5" y="1.5" width="1797" height="777" rx="29" fill="none" stroke="#94abc5" stroke-opacity=".19" stroke-width="3"/>
 </svg>

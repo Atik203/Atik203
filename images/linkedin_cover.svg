@@ -1,41 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
-  <title id="title">Md. Atikur Rahaman — Full Stack Engineer and AI/ML Engineer</title>
-  <desc id="desc">LinkedIn cover banner with a dark navy technical background, profile-photo safe space on the left, and connected AI system illustration on the right.</desc>
+  <title id="title">Md. Atikur Rahaman | Full Stack Engineer and AI/ML Engineer</title>
+  <desc id="desc">LinkedIn cover presenting Atikur Rahaman's full stack and AI/ML engineering work. The left side is clear for the profile photo; large web, AI, and data icons sit on the right.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".58" stop-color="#101b31"/><stop offset="1" stop-color="#081827"/></linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4de3d0"/><stop offset="1" stop-color="#62aaff"/></linearGradient>
-    <radialGradient id="halo"><stop stop-color="#177c9b" stop-opacity=".38"/><stop offset="1" stop-color="#177c9b" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8aa5c4" stroke-opacity=".065"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#101c32"/><stop offset="1" stop-color="#081625"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#51e0ca"/><stop offset="1" stop-color="#72aaff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#1486a1" stop-opacity=".32"/><stop offset="1" stop-color="#1486a1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#91a9c4" stroke-opacity=".055"/></pattern>
   </defs>
   <rect width="1584" height="396" fill="url(#bg)"/><rect width="1584" height="396" fill="url(#grid)"/>
-  <circle cx="1290" cy="190" r="300" fill="url(#halo)"/>
-  <path d="M0 346C300 258 420 417 710 320S1180 250 1584 355" fill="none" stroke="#3b82f6" stroke-opacity=".11" stroke-width="2"/>
-  <!-- Left side stays intentionally quiet for LinkedIn's overlapping profile photo. -->
+  <circle cx="1330" cy="190" r="340" fill="url(#halo)"/>
+  <path d="M0 385C300 355 420 400 720 379S1190 355 1584 385" fill="none" stroke="#4b9dff" stroke-opacity=".12" stroke-width="2"/>
+  <!-- Profile-photo safe area: keep all key text and symbols to the right. -->
   <g font-family="Segoe UI, Inter, Arial, sans-serif">
-    <rect x="520" y="45" width="294" height="32" rx="16" fill="#0d2b2d" stroke="#2dd4bf" stroke-opacity=".5"/>
-    <circle cx="540" cy="61" r="4" fill="#34d399"/>
-    <text x="555" y="66" fill="#9deadd" font-size="12" font-weight="650" letter-spacing="1">AVAILABLE FOR FULL-TIME / REMOTE</text>
-    <text x="516" y="141" fill="#f1f7ff" font-size="43" font-weight="760" letter-spacing="-1.2">Md. Atikur Rahaman</text>
-    <rect x="520" y="158" width="66" height="4" rx="2" fill="url(#line)"/>
-    <text x="518" y="204" fill="#b5cce0" font-size="23" font-weight="600">Full Stack Engineer <tspan fill="#52d9d0">·</tspan> AI/ML Engineer</text>
-    <text x="520" y="236" fill="#91a8c0" font-size="15">Production-ready applications and intelligent systems</text>
-    <g transform="translate(518 268)">
-      <rect width="91" height="34" rx="10" fill="#17253a" stroke="#7dd3fc" stroke-opacity=".4"/><text x="45.5" y="22" text-anchor="middle" fill="#d6f3ff" font-size="14" font-weight="650">Next.js</text>
-      <rect x="101" width="108" height="34" rx="10" fill="#17253a" stroke="#7dd3fc" stroke-opacity=".4"/><text x="155" y="22" text-anchor="middle" fill="#d6f3ff" font-size="14" font-weight="650">TypeScript</text>
-      <rect x="219" width="137" height="34" rx="10" fill="#17253a" stroke="#7dd3fc" stroke-opacity=".4"/><text x="287.5" y="22" text-anchor="middle" fill="#d6f3ff" font-size="14" font-weight="650">Agentic AI · RAG</text>
-      <rect x="366" width="170" height="34" rx="10" fill="#17253a" stroke="#7dd3fc" stroke-opacity=".4"/><text x="451" y="22" text-anchor="middle" fill="#d6f3ff" font-size="13" font-weight="650">PostgreSQL · pgvector</text>
+    <rect x="426" y="40" width="405" height="34" rx="17" fill="#0c292c" stroke="#35cdbb" stroke-opacity=".5"/>
+    <circle cx="448" cy="57" r="4.5" fill="#4be0a2"/>
+    <text x="465" y="62" fill="#a8f1df" font-size="13" font-weight="700" letter-spacing="1.2">AVAILABLE FOR FULL-TIME &amp; REMOTE ROLES</text>
+    <text x="420" y="145" fill="#f4f8ff" font-size="56" font-weight="760" letter-spacing="-1.4">Md. Atikur Rahaman</text>
+    <rect x="426" y="164" width="76" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="424" y="211" fill="#c0d7ea" font-size="30" font-weight="650">Full Stack Engineer <tspan fill="#52d9d0">·</tspan> AI/ML Engineer</text>
+    <text x="426" y="247" fill="#c6d5e6" font-size="20" font-weight="450">I build reliable web products and practical AI systems.</text>
+    <g transform="translate(424 276)">
+      <rect width="110" height="38" rx="11" fill="#15273c" stroke="#6ec9dc" stroke-opacity=".48"/><text x="55" y="25" text-anchor="middle" fill="#e0f5ff" font-size="16" font-weight="650">Next.js</text>
+      <rect x="121" width="138" height="38" rx="11" fill="#15273c" stroke="#6ec9dc" stroke-opacity=".48"/><text x="190" y="25" text-anchor="middle" fill="#e0f5ff" font-size="16" font-weight="650">TypeScript</text>
+      <rect x="270" width="157" height="38" rx="11" fill="#15273c" stroke="#6ec9dc" stroke-opacity=".48"/><text x="348.5" y="25" text-anchor="middle" fill="#e0f5ff" font-size="15" font-weight="650">Agentic AI · RAG</text>
+      <rect x="438" width="195" height="38" rx="11" fill="#15273c" stroke="#6ec9dc" stroke-opacity=".48"/><text x="535.5" y="25" text-anchor="middle" fill="#e0f5ff" font-size="14" font-weight="650">PostgreSQL · pgvector</text>
     </g>
-    <text x="520" y="344" fill="#647b96" font-size="13" font-weight="500">atikurrahaman.site</text>
-    <text x="653" y="344" fill="#41556d" font-size="13">·</text>
-    <text x="670" y="344" fill="#647b96" font-size="13" font-weight="500">3+ years building for the web</text>
+    <text x="426" y="356" fill="#a9bdd2" font-size="15" font-weight="600">atikurrahaman.site</text>
+    <circle cx="558" cy="351" r="2.5" fill="#57d5d1"/>
+    <text x="576" y="356" fill="#a9bdd2" font-size="15" font-weight="600">3+ years building for the web</text>
   </g>
-  <g stroke="url(#line)" stroke-opacity=".54" stroke-width="2" fill="none">
-    <path d="M1120 100L1274 68L1412 135L1320 230L1132 266L1200 326L1402 302L1490 205L1412 135"/>
-    <path d="M1274 68L1320 230L1490 205M1132 266L1320 230L1402 302" stroke-opacity=".28"/>
+  <!-- Large, simple visual marks with readable text labels. -->
+  <g transform="translate(1254 127)" fill="none" stroke="#68e2d1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-27" y="-25" width="54" height="50" rx="8"/><path d="M-27 -9H27M-15 -17h1M-8 -17h1M-7 0l-8 8 8 8M7 0l8 8-8 8"/>
   </g>
-  <g fill="#0e2033" stroke="#62d9e5" stroke-width="2">
-    <circle cx="1120" cy="100" r="12"/><circle cx="1274" cy="68" r="17"/><circle cx="1412" cy="135" r="13"/><circle cx="1320" cy="230" r="22"/><circle cx="1132" cy="266" r="14"/><circle cx="1402" cy="302" r="16"/><circle cx="1490" cy="205" r="11"/><circle cx="1200" cy="326" r="12"/>
+  <text x="1254" y="178" text-anchor="middle" fill="#eaf5ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="700">WEB</text>
+  <text x="1254" y="197" text-anchor="middle" fill="#b5c9dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="600">PRODUCTS</text>
+  <g transform="translate(1395 127)" fill="none" stroke="#68e2d1" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="22"/><circle cx="-31" cy="-26" r="6" fill="#142b40"/><circle cx="32" cy="-26" r="6" fill="#142b40"/><circle cx="-32" cy="27" r="6" fill="#142b40"/><circle cx="32" cy="27" r="6" fill="#142b40"/><path d="M-16 -14L-27 -22M16 -14L28 -22M-16 15L-27 23M16 15L28 23"/><path d="M0 -11l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#a6f4e4" stroke="none"/>
   </g>
-  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="700" text-anchor="middle" fill="#baf8f1"><text x="1274" y="73" font-size="11">TS</text><text x="1320" y="235" font-size="13">AI</text><text x="1402" y="307" font-size="10">DB</text></g>
-  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#a6bdd3"><text x="1170" y="92">Next.js</text><text x="1338" y="93">LangGraph</text><text x="1350" y="218">RAG</text><text x="1428" y="286">pgvector</text></g>
+  <text x="1395" y="178" text-anchor="middle" fill="#eaf5ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="700">AGENTIC AI</text>
+  <text x="1395" y="197" text-anchor="middle" fill="#b5c9dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="600">LLM SYSTEMS</text>
+  <g transform="translate(1535 127)" fill="none" stroke="#68e2d1" stroke-width="4.5">
+    <ellipse cy="-19" rx="27" ry="10"/><path d="M-27 -19v37c0 6 12 11 27 11s27-5 27-11v-37M-27 0c0 6 12 11 27 11s27-5 27-11"/>
+  </g>
+  <text x="1535" y="178" text-anchor="middle" fill="#eaf5ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="700">DATA</text>
+  <text x="1535" y="197" text-anchor="middle" fill="#b5c9dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="600">PLATFORMS</text>
+  <rect x="1" y="1" width="1582" height="394" fill="none" stroke="#94abc5" stroke-opacity=".19" stroke-width="2"/>
 </svg>
